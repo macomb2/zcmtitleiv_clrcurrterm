@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TRAN" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TSTC>
+    <TCODE>ZCM_TITLE4_EXCPT</TCODE>
+    <CINFO>Ag==</CINFO>
+   </TSTC>
+   <TSTCC>
+    <TCODE>ZCM_TITLE4_EXCPT</TCODE>
+    <S_WEBGUI>1</S_WEBGUI>
+    <S_WIN32>X</S_WIN32>
+    <S_PLATIN>X</S_PLATIN>
+   </TSTCC>
+   <TSTCT>
+    <SPRSL>E</SPRSL>
+    <TCODE>ZCM_TITLE4_EXCPT</TCODE>
+    <TTEXT>Maintain ZCM_TITLE4_EXCPT</TTEXT>
+   </TSTCT>
+   <TSTCP>
+    <TCODE>ZCM_TITLE4_EXCPT</TCODE>
+    <PARAM>/*SM30 UPDATE=X;VIEWNAME=ZCM_TITLE4_EXCPT;</PARAM>
+   </TSTCP>
+  </asx:values>
+ </asx:abap>
+</abapGit>
